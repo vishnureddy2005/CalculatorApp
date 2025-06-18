@@ -105,3 +105,12 @@ public class CalculatorApp extends Application {
         launch(args);
     }
 }  
+//compile:-javac --module-path javafx-sdk-21.0.7\lib --add-modules javafx.controls,javafx.fxml javafx1\CalculatorApp.java
+//run:-java --module-path javafx-sdk-21.0.7\lib --add-modules javafx.controls,javafx.fxml javafx1.CalculatorApp
+//folder structure:-
+//create one "calculatorproject" folder in d drive ..
+//inside that folder u need to create another folder is "javafx1"
+//inside javafx1 u nedd to save CalculatorApp.java file 
+//u nedd to install one jar file that is javafx-sdk-21.0.7
+//u install then that jar file is placed in "calculatorproject" folder
+//then compile,run
